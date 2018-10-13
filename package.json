@@ -1,0 +1,25 @@
+{
+  "name": "ng-systemjs-to-webpack",
+  "version": "1.0.0",
+  "description": "systemjs to webpack converter, converts ts file paths to webpack formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brifanbelly/ng-sysetmjs-to-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "systemjs",
+    "angular",
+    "storybook"
+  ],
+  "author": "brifan fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brifanbelly/ng-sysetmjs-to-webpack/issues"
+  },
+  "homepage": "https://github.com/brifanbelly/ng-sysetmjs-to-webpack#readme"
+}
